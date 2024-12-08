@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Физика туралы</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 20px;
+        }
+        .content {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333333;
+        }
+        p {
+            font-size: 18px;
+            color: #555555;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>Физика</h1>
+        <p>Физика — табиғатты зерттейтін ғылымның негізгі салаларының бірі. Ол заттардың қозғалысы, энергия, күш және олардың бір-бірімен байланысы туралы білім береді. Физика заңдары бүкіл әлемде бірдей әрекет етеді және көптеген ғылыми жетістіктердің негізін құрайды.</p>
+        <p>Физика ғылымы көптеген салаларды қамтиды: механика, термодинамика, электромагнетизм, оптика, кванттық физика және басқалары. Бұл салалар адамның өмірін жеңілдетіп, технологияның дамуына үлкен үлес қосады.</p>
+    </div>
+</body>
+</html>
